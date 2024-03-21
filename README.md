@@ -11,3 +11,4 @@ TEUR is a 1:1 EUR-backed Stablecoin issued by PEGLABS deployed on BASE.
 | MultiSigSinger1 | base:0x3c3d89824E89F51b6e04a40E88f51Ca1B69C370D |
 | MultiSigSinger2 | base:0x148755dB472d4E548E3dB2f0A604257d4B2802a6 |
 | MultiSigSinger3 | base:0x6E1063Ec396643Adfc29BB46902C89b605303482 |
+| AerodromePool | base:0x87F8254b50ff1ed83145A2b6D5C2F16fA1D6189d |
